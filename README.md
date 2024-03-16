@@ -7,3 +7,5 @@ Every 15 seconds the bg changes colors.
 - Logic manager controlling the color switches and game over logic.
 - Player has gravity pulling their down after jump's highpoint
 - Sound plays for scores
+
+Builded game download: https://drive.google.com/file/d/1_ymIeKIlUmH3X2upmwiNz-zxonquOSID/view?usp=sharing
